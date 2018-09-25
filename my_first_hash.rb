@@ -4,6 +4,7 @@ end
 
 
 def shipping_manifest
+  
   the_manifest = {
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
@@ -18,7 +19,9 @@ def retrieval
 end
 
 def adding
+  
   ship_manifest = shipping_manifest
+  
   ship_manifest["muskets"] = 2
 
   ship_manifest["gun powder"] = 4
