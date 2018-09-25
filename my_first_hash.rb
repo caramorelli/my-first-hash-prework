@@ -12,6 +12,7 @@ def shipping_manifest
                   "oil paintings" => 3
                 }
 end
+"whale bone corsets", "oil paintings", "porcelain vases"
 
 def retrieval
   # shipping_manifest = {
